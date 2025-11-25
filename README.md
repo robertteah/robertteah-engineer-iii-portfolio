@@ -1,13 +1,16 @@
 # Engineer III Portfolio – Robert Teah
 
-This repository contains 5 real-world DevOps / SRE / Cloud Platform projects designed to demonstrate Engineer III-level proficiency.
+This portfolio showcases the real-world engineering work I’ve delivered as a DevOps/SRE/Cloud Platform Engineer.  
+It includes medium-sized features, end-to-end project delivery, observability improvements, automation, and production-grade systems design.
 
-Each project includes:
+Each project contains:
 - Architecture diagrams
-- Deployment pipelines
-- Infra-as-code
-- Observability integrations
-- Runbooks and production readiness documentation
+- Design decisions & tradeoffs
+- Deployment workflows
+- CI/CD pipelines
+- Kubernetes/Infra code
+- Runbooks & on-call documentation
+- Production readiness notes
 
 ## Projects
 
